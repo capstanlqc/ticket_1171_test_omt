@@ -1,0 +1,68 @@
+{
+  "date": "20230724T181406Z",
+  "total": {
+    "characters-without-spaces": 40,
+    "characters": 46,
+    "words": 9,
+    "files": 1,
+    "segments": 3
+  },
+  "unique-remaining": {
+    "characters-without-spaces": 28,
+    "characters": 33,
+    "words": 7,
+    "files": 1,
+    "segments": 2
+  },
+  "unique": {
+    "characters-without-spaces": 40,
+    "characters": 46,
+    "words": 9,
+    "files": 1,
+    "segments": 3
+  },
+  "project": {
+    "root": "/home/souto/Work/ticket_1164_test-5.7.2_omt/",
+    "source-language": "en",
+    "target-language": "fr",
+    "name": "ticket_1164_test-5.7.2_omt"
+  },
+  "files": [{
+    "total": {
+      "characters-without-spaces": 40,
+      "characters": 46,
+      "words": 9,
+      "files": 0,
+      "segments": 3
+    },
+    "filename": "oyster.html",
+    "unique-remaining": {
+      "characters-without-spaces": 28,
+      "characters": 33,
+      "words": 7,
+      "files": 0,
+      "segments": 2
+    },
+    "unique": {
+      "characters-without-spaces": 40,
+      "characters": 46,
+      "words": 9,
+      "files": 0,
+      "segments": 3
+    },
+    "remaining": {
+      "characters-without-spaces": 28,
+      "characters": 33,
+      "words": 7,
+      "files": 0,
+      "segments": 2
+    }
+  }],
+  "remaining": {
+    "characters-without-spaces": 28,
+    "characters": 33,
+    "words": 7,
+    "files": 1,
+    "segments": 2
+  }
+}
