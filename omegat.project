@@ -2,7 +2,7 @@
 <omegat>
     <project version="1.0">
         <repositories>
-            <repository type="git" url="https://github.com/capstanlqc/ticket_1164_test_omt.git">
+            <repository type="git" url="https://github.com/capstanlqc/ticket_1171_test_omt.git">
                 <mapping local="/" repository="/"/>
             </repository>
         </repositories>
